@@ -2,7 +2,7 @@
     "name": "markshust/m2-meta-test",
     "version": "1.0.0",
     "type": "metapackage",
-    "require": {
+    "require-dev": {
         "mage2tv/magento-cache-clean": "^1.0"
     }
 }
